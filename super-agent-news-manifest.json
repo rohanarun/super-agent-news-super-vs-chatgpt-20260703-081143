@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[thehindu.com](https://www.thehindu.com/sci-tech/technology/metas-zuckerberg-says-ai-agent-tech-progressing-slower-than-expected/article71177205.ece)",
+    "[siliconangle.com](https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/)",
+    "[aol.com](https://www.aol.com/articles/exclusive-zuckerberg-says-ai-agent-201123000.html)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4)",
+    "[softonic.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmx0N05qQ1FLUG9IcXVLZmpIdXNPaF9VV2xibDBxazY4TlRLbkFEb0FoS2x2VVBXZHVfZm1iY3pEaVVxdlhYYmNfMGVNM2FCdGdWRFhLSDdDbURyMVU2cjdLNElHMGVUVUtfSmdiN0JGdzhub0p0dGdMQTl3MHdRcXBicG5fUmh0TVR3Z1k5aUNGczVPZ2N3ME1IdTlvam1VNlMwbg)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=max1120_2to3lines; bento_density=grid-auto-flow:dense; label_sweep=all competitors named; button_contrast=black/white pills verified",
+  "generated_at": "2026-07-03T08:11:50.423207+00:00",
+  "headline": "Super vs ChatGPT \u2014 Personal AI Agents for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is a world\u2011class conversational assistant evolving toward agents and automation. Super is built specifically for people who want a personal AI agent that actually operates a computer \u2014 and gets better and cheaper at repeated workflows through a reusable computer-use cache. This page compares where ChatGPT shines, where it\u2019s still maturing, and why Super is the sharper alternative for durable computer-use work."
+}
